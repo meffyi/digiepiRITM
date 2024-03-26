@@ -1,0 +1,7 @@
+---
+title: "Agenda"
+---
+
+The detailed agenda can be found [here](https://drive.google.com/file/d/1KsIHI07GyVDnWRLvlHMoHkUBJr7kb6Uy/view?usp=sharing).
+
+![](img/workshop flow.jpg){width="100%"}
